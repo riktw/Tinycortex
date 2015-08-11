@@ -1,0 +1,3 @@
+Both scripts in here are not made by me, merely found and slightly tweaked. 
+lpc_usb_flasher.pl is from https://github.com/hollie/lpc_usb_flasher and adjusted to support Linux.
+checksum.c is from http://bgamari.github.io/posts/2012-03-28-jtag-over-buspirate.html and not changed except for a spelling mistake. 
